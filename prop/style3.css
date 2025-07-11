@@ -17,6 +17,10 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 698px;
+    text-align: center;
+}
+body{
+  background-color: #f5f8ff;
 }
 main{
     /*max-width: 1140px;*/
@@ -60,8 +64,8 @@ button:hover {
 
 .banner{
     max-width: 905px;
-    margin: 158px 267.5px 152px 267.5px;
-    text-align: center;
+    margin: 155px auto;
+    
 }
 
 .banner-title {
